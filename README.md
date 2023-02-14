@@ -78,4 +78,4 @@
 ## Laravel
 - [Laravel 8 Crush Course (English)](https://www.youtube.com/watch?v=MFh0Fd7BsjE) by Code Course
 - [Laravel 6 Complete Full Course (English)](https://laracasts.com/series/laravel-6-from-scratch) by JEFFREY WAY
-- [Laravel 8 Incomplete yet (English)](https://laracasts.com/series/laravel-8-from-scratch) by JEFFREY WAY
+- [Laravel 8 (English)](https://laracasts.com/series/laravel-8-from-scratch) by JEFFREY WAY
